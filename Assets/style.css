@@ -41,7 +41,11 @@ div  {
     font-weight:100;
     color: rgb(84, 80, 80);
     }
-    img {
+
+img {
+    
+    height: 50 px;
+    width: 50 px;
         /* height: 50px; */
         /* width: 50px */
     }
@@ -52,7 +56,8 @@ div  {
         justify-content: space-evenly;
         align-items: center;
         border: 20px solid#edbbf0;
-        text-align:center
+        text-align: center;
+        padding: 50px;
     }
 
 
