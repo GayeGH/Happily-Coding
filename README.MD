@@ -1,23 +1,18 @@
-# Happily Coding
-## My Portfolio
+# Title
+Happily Coding
+
 ## Description
-
-For the Module 2 Challenge, our goal was to create a portfolio page with images of us, our first project and placeholder pictures. I linked the list items in the header to different sections of the page, and I linked an image from my first project to my Github page. 
-
+This application is a portfolio page. It includes links to an "About Me" section as well as "Github" and "Contact" sections. Within the github section, users will find images of completed projects that are also linked to their corresponding urls. 
 
 ## Installation
-
-N/A
+HTML and CSS
 
 ## Usage
+Users will find a brief description of Gaye Haslam at the "Happily Coding" webpage, links to Github projects and her contact information.   
 
-Users will find a brief description of Gaye Haslam with the "Happily Coding" webpage, a link to the project "Horiseon" in Github and contact information. A link to Mrs. Haslam's resume is being researched. :)   
-
-
-## Credits
-
-UNC Bootcamp Homework
 
 ## License
-Refer to UNC Bootcamp licensing.
+"ISC"
 
+## Contact
+gghaslam@gmail.com
