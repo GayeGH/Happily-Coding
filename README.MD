@@ -10,6 +10,7 @@ HTML and CSS
 ## Usage
 Users will find a brief description of Gaye Haslam at the "Happily Coding" webpage, links to Github projects and her contact information.   
 
+<img width="160" alt="Happily Coding" src="https://user-images.githubusercontent.com/112979481/222849026-30e9bfba-512d-4b9c-a295-ba98dc5e427f.png">
 
 ## License
 "ISC"
