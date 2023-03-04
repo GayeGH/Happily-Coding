@@ -8,9 +8,10 @@ This application is a portfolio page. It includes links to an "About Me" section
 HTML and CSS
 
 ## Usage
-Users will find a brief description of Gaye Haslam at the "Happily Coding" webpage, links to Github projects and her contact information.   
+Users will find a brief description of Gaye Haslam at the "Happily Coding" webpage, links to Github projects and contact information.   
 
 <img src=./images/happycoding.png alt="happily coding">
+
 ## License
 "ISC"
 
