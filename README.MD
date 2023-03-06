@@ -12,6 +12,8 @@ Users will find a brief description of Gaye Haslam at the "Happily Coding" webpa
 
 <img src=./images/happycoding.png alt="happily coding">
 
+Deployed Link:  https://gayegh.github.io/Happily-Coding/
+
 ## License
 "ISC"
 
